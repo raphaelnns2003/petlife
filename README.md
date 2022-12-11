@@ -1,3 +1,3 @@
 # petlife
 
-deploy: www.petlife123.netlify.app
+deploy: https://petlife123.netlify.app/
